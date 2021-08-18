@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "796367644329",
+    "firebase_url": "https://jokerchat-6c0cd-default-rtdb.firebaseio.com",
+    "project_id": "jokerchat-6c0cd",
+    "storage_bucket": "jokerchat-6c0cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796367644329:android:3e86f2b1d050e89886ebb8",
+        "android_client_info": {
+          "package_name": "com.joker.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796367644329-apli91g72u4sapeo0iimmikj5d93beki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTK1vGjBetPMUbGLGb23sYwYgVsPt02GQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796367644329-apli91g72u4sapeo0iimmikj5d93beki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796367644329:android:a4f8c0db042d400386ebb8",
+        "android_client_info": {
+          "package_name": "com.koddev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796367644329-apli91g72u4sapeo0iimmikj5d93beki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTK1vGjBetPMUbGLGb23sYwYgVsPt02GQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796367644329-apli91g72u4sapeo0iimmikj5d93beki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
